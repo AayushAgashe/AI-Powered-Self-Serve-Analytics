@@ -60,7 +60,6 @@ backend/data/*.parquet
 *.bin
 *.pkl
 *.joblib
-models/
 backend/models/*.bin
 backend/models/*.pkl
 
